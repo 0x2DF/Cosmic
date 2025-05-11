@@ -24,3 +24,9 @@ database/docker-pg-db-data
 
 # macOS files
 .DS_Store
+
+# Configuration files
+config.yaml
+
+# Help files
+help/
